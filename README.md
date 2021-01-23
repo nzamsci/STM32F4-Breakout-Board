@@ -3,3 +3,4 @@ PCB Design based around the STM32F405RGT6 microcontroller. Design includes a 20-
 
 ![alt text](https://github.com/nzamsci/STM32F4-Breakout-Board/blob/main/Images/Schematic.JPG?raw=true)
 
+![alt text](https://github.com/nzamsci/STM32F4-Breakout-Board/blob/main/Images/3D.JPG?raw=true)
